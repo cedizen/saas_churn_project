@@ -1,0 +1,1370 @@
+ticket_id,account_id,created_at,category,status,csat_score
+1,360,2023-02-19,Onboarding,Closed,3.0
+2,261,2023-01-16,Billing,Closed,3.0
+3,236,2023-03-30,Feature request,Closed,4.0
+4,249,2023-04-14,Bug,Closed,1.0
+5,20,2023-06-17,Feature request,Closed,3.0
+6,217,2023-05-14,Onboarding,Closed,4.0
+7,264,2023-06-23,Feature request,Closed,3.0
+8,214,2023-02-11,Onboarding,Closed,1.0
+9,116,2023-05-22,Feature request,Closed,3.0
+10,192,2023-01-10,Billing,Closed,5.0
+11,43,2023-06-24,Onboarding,Closed,3.0
+12,27,2023-01-27,Billing,Closed,4.0
+13,335,2023-03-24,Billing,Pending,3.0
+14,456,2023-02-20,Bug,Pending,5.0
+16,374,2023-06-06,Bug,Pending,2.0
+17,351,2023-06-24,Feature request,Pending,5.0
+18,99,2023-01-30,Onboarding,Open,3.0
+19,71,2023-04-19,Bug,Closed,3.0
+20,149,2023-06-17,Bug,Closed,2.0
+21,405,2023-01-22,Billing,Open,4.0
+22,429,2023-05-06,Feature request,Pending,2.0
+23,186,2023-05-16,Feature request,Closed,4.0
+25,33,2023-03-31,Feature request,Closed,3.0
+27,141,2023-01-09,Onboarding,Pending,2.0
+28,193,2023-03-12,Onboarding,Closed,5.0
+29,365,2023-03-29,Onboarding,Open,1.0
+30,245,2023-05-03,Bug,Closed,2.0
+31,468,2023-02-24,Billing,Closed ,5.0
+32,201,2023-03-12,Bug,Closed,4.0
+33,493,2023-03-30,Billing,Closed,3.0
+34,205,2023-01-22,Billing,Closed,2.0
+35,126,2023-03-19,Bug,Pending,1.0
+36,451,2023-05-13,Onboarding,Pending,4.0
+37,469,2023-04-04,Bug,Closed,3.0
+38,456,2023-03-11,Onboarding,Closed,3.0
+39,10,2023-01-07,Billing,Closed,3.0
+40,65,2023-06-07,Bug,Open,2.0
+41,109,2023-06-19,Onboarding,Pending,3.0
+42,323,2023-03-26,Feature request,Closed,5.0
+43,458,2023-04-10,Feature request,Closed,2.0
+44,470,2023-05-05,Feature request,Pending,2.0
+45,271,2023-03-29,Bug,Open,1.0
+46,349,2023-06-05,Bug,Pending,5.0
+47,288,2023-06-25,Onboarding,Closed,1.0
+48,330,2023-03-31,Onboarding,Closed,3.0
+49,16,2023-03-31,Bug,Pending,5.0
+50,81,2023-05-09,Feature request,Closed,3.0
+51,416,2023-03-09,Onboarding,Closed,3.0
+52,247,2023-03-06,Bug,Closed,5.0
+53,313,2023-05-12,Onboarding,Closed,3.0
+54,161,2023-02-14,Bug,Closed,5.0
+55,303,2023-04-13,Onboarding,Pending,4.0
+56,247,2023-01-23,Billing,Closed,5.0
+57,121,2023-01-26,Onboarding,Closed,2.0
+58,410,2023-06-23,Feature request,Closed,4.0
+59,141,2023-05-08,Feature request,Pending,2.0
+60,161,2023-06-07,Billing,Closed,2.0
+61,216,2023-06-09,Onboarding,Closed,3.0
+62,34,2023-04-15,Feature request,Closed,4.0
+63,35,2023-03-05,Bug,Closed,4.0
+64,238,2023-04-19,Billing,Closed ,3.0
+65,259,2023-02-03,Feature request,Closed,5.0
+66,500,2023-01-15,Onboarding,Closed,2.0
+67,22,2023-05-23,Billing,Closed,5.0
+68,27,2023-06-23,Feature request,Pending,2.0
+69,489,2023-01-21,Feature request,Closed,3.0
+70,487,2023-01-10,Onboarding,Pending,4.0
+71,468,2023-06-25,Billing,Pending,5.0
+72,127,2023-05-06,Onboarding,Closed,3.0
+73,310,2023-06-29,Billing,Closed,4.0
+74,86,2023-04-16,Billing,Pending,3.0
+75,44,2023-01-26,Feature request,Closed,3.0
+76,82,2023-02-20,Billing,Closed,3.0
+77,385,2023-02-07,Onboarding,Closed,1.0
+78,488,2023-06-08,Bug,Closed,4.0
+80,492,2023-01-22,Billing,Closed,4.0
+81,347,2023-03-19,Onboarding,Closed,5.0
+84,86,2023-06-19,Feature request,Closed,5.0
+85,67,2023-03-08,Billing,Open,3.0
+86,182,2023-04-21,Billing,Pending,3.0
+88,424,2023-01-24,Onboarding,Closed,3.0
+89,253,2023-01-11,Billing,Closed,1.0
+90,208,2023-05-25,Billing,Closed,4.0
+91,174,2023-04-23,Bug,Closed,5.0
+92,101,2023-05-31,Bug,Pending,4.0
+93,29,2023-03-22,Billing,Closed,3.0
+94,402,2023-05-04,Billing,Open,1.0
+95,15,2023-05-08,Feature request,Closed,1.0
+96,454,2023-03-13,Feature request,Closed,2.0
+97,318,2023-02-05,Feature request,Closed,4.0
+98,439,2023-03-04,Onboarding,Open,5.0
+99,69,2023-06-27,Billing,Closed,3.0
+100,299,2023-02-12,Onboarding,Closed,3.0
+101,53,2023-05-21,Onboarding,Closed,2.0
+102,283,2023-05-27,Bug,Closed,4.0
+103,265,2023-06-13,Onboarding,Closed,4.0
+104,322,2023-01-13,Bug,Pending,4.0
+105,390,2023-04-19,Bug,Closed,4.0
+106,414,2023-02-25,Billing,Pending,4.0
+107,156,2023-05-03,Onboarding,Closed,1.0
+108,335,2023-01-07,Billing,Closed,4.0
+109,222,2023-05-12,Bug,Closed,5.0
+110,151,2023-01-24,Feature request,Pending,3.0
+111,428,2023-05-28,Onboarding,Closed,3.0
+112,113,2023-03-01,Feature request,Closed,3.0
+113,265,2023-01-26,Onboarding,Closed,5.0
+114,359,2023-02-09,Billing,Closed,4.0
+115,203,2023-01-11,Feature request,Open,3.0
+116,450,2023-05-02,Onboarding,Closed,4.0
+117,101,2023-05-04,Billing,Closed,4.0
+118,273,2023-03-30,Bug,Closed,5.0
+119,496,2023-01-17,Billing,Closed,4.0
+120,175,2023-04-25,Billing,Closed,3.0
+121,179,2023-03-13,Bug,Closed,2.0
+123,248,2023-06-15,Feature request,Closed,4.0
+124,119,2023-02-04,Billing,Open,3.0
+125,169,2023-04-26,Onboarding,Closed,5.0
+126,34,2023-05-29,Onboarding,Pending,5.0
+127,360,2023-01-13,Billing,Closed,4.0
+128,497,2023-03-02,Bug,Open,4.0
+129,27,2023-01-10,Billing,Closed,1.0
+130,482,2023-04-13,Bug,Closed,5.0
+131,151,2023-04-13,Bug,Closed,4.0
+132,209,2023-01-22,Bug,Closed,5.0
+133,156,2023-02-22,Onboarding,Closed,4.0
+134,423,2023-03-21,Bug,Closed,5.0
+135,206,2023-02-25,Onboarding,Closed,4.0
+136,355,2023-06-05,Feature request,Closed,4.0
+137,157,2023-06-23,Feature request,Closed,4.0
+138,8,2023-06-28,Billing,Closed,2.0
+140,481,2023-05-16,Billing,Closed,3.0
+141,259,2023-02-03,Onboarding,Open,2.0
+142,285,2023-06-04,Billing,Closed,1.0
+143,475,2023-06-25,Billing,Closed,3.0
+144,84,2023-01-14,Feature request,Closed,4.0
+145,490,2023-05-13,Billing,Closed,5.0
+146,304,2023-02-09,Bug,Closed,2.0
+147,339,2023-05-12,Feature request,Pending,5.0
+148,488,2023-03-10,Feature request,Pending,4.0
+149,161,2023-06-11,Bug,Pending,3.0
+150,290,2023-04-11,Billing,Open,4.0
+151,489,2023-03-17,Bug,Closed,3.0
+152,376,2023-05-02,Feature request,Closed,1.0
+153,279,2023-03-24,Feature request,Closed,5.0
+154,30,2023-01-14,Bug,Closed,2.0
+155,410,2023-03-17,Billing,Closed,3.0
+156,13,2023-02-22,Feature request,Closed,1.0
+157,286,2023-01-28,Onboarding,Closed,5.0
+158,170,2023-02-19,Billing,Closed,4.0
+159,116,2023-06-05,Billing,Pending,5.0
+161,19,2023-05-08,Onboarding,Closed,5.0
+162,220,2023-04-26,Feature request,Closed,5.0
+163,212,2023-05-29,Bug,Closed,4.0
+164,114,2023-01-01,Billing,Closed,3.0
+165,48,2023-06-12,Billing,Closed,2.0
+166,68,2023-03-09,Feature request,Closed,3.0
+167,248,2023-04-07,Bug,Closed,3.0
+168,345,2023-06-14,Feature request,Open,2.0
+169,79,2023-02-01,Feature request,Closed,1.0
+170,238,2023-04-03,Feature request,Closed,3.0
+171,248,2023-06-18,Feature request,Closed,4.0
+172,159,2023-02-02,Feature request,Closed,3.0
+173,146,2023-06-02,Feature request,Pending,4.0
+174,458,2023-01-21,Onboarding,Pending,4.0
+175,302,2023-03-13,Bug,Closed,3.0
+176,22,2023-03-03,Billing,Closed,1.0
+177,319,2023-05-08,Feature request,Closed,1.0
+178,87,2023-01-19,Bug,Pending,2.0
+179,417,2023-02-28,Billing,Open,4.0
+180,406,2023-01-10,Onboarding,Closed,5.0
+181,495,2023-03-16,Feature request,Closed,2.0
+182,294,2023-02-05,Onboarding,Closed,1.0
+184,65,2023-05-31,Onboarding,Closed,2.0
+186,93,2023-02-17,Onboarding,Closed,2.0
+187,25,2023-02-16,Feature request,Pending,3.0
+188,229,2023-01-02,Onboarding,Closed,2.0
+189,274,2023-04-08,Onboarding,Closed,2.0
+190,196,2023-03-18,Bug,Closed,5.0
+191,227,2023-04-04,Onboarding,Closed,3.0
+192,495,2023-01-25,Feature request,Closed,4.0
+194,286,2023-02-24,Feature request,Open,5.0
+195,102,2023-04-19,Bug,Closed,1.0
+196,227,2023-01-31,Onboarding,Pending,3.0
+197,217,2023-03-09,Billing,Closed,1.0
+198,271,2023-04-25,Onboarding,Closed,4.0
+199,234,2023-06-27,Feature request,Closed,3.0
+200,280,2023-01-28,Bug,Closed,3.0
+201,442,2023-01-16,Onboarding,Pending,5.0
+202,197,2023-02-04,Bug,Closed,2.0
+203,235,2023-06-03,Bug,Closed,3.0
+204,444,2023-03-02,Bug,Closed,5.0
+205,39,2023-03-16,Feature request,Pending,2.0
+206,85,2023-04-28,Onboarding,Open,5.0
+207,483,2023-03-07,Feature request,Closed,4.0
+208,214,2023-05-29,Feature request,Open,1.0
+209,469,2023-02-17,Bug,Closed,3.0
+210,239,2023-01-05,Feature request,Closed,3.0
+211,204,2023-01-08,Bug,Closed,4.0
+213,156,2023-04-06,Feature request,Pending,4.0
+214,418,2023-03-28,Billing,Closed,3.0
+215,461,2023-06-23,Billing,Closed,4.0
+216,389,2023-04-24,Bug,Closed,3.0
+217,349,2023-04-24,Bug,Closed,4.0
+219,48,2023-05-06,Onboarding,Closed,1.0
+220,321,2023-01-15,Feature request,Closed,3.0
+221,222,2023-06-01,Onboarding,Closed,4.0
+222,74,2023-02-08,Bug,Closed,3.0
+223,78,2023-02-06,Onboarding,Closed,5.0
+224,6,2023-05-13,Bug,Closed ,4.0
+225,80,2023-06-11,Onboarding,Open,5.0
+227,73,2023-03-19,Billing,Closed,3.0
+228,165,2023-06-09,Onboarding,Closed,3.0
+229,318,2023-02-13,Feature request,Closed,5.0
+230,88,2023-06-29,Billing,Pending,4.0
+231,121,2023-01-04,Feature request,Closed,3.0
+232,192,2023-05-30,Feature request,Closed,3.0
+233,56,2023-04-19,Feature request,Closed,3.0
+234,479,2023-03-08,Onboarding,Closed,2.0
+235,211,2023-03-08,Billing,Closed,5.0
+236,299,2023-01-19,Bug,Closed,5.0
+237,495,2023-03-14,Feature request,Open,3.0
+238,230,2023-02-24,Billing,Pending,2.0
+240,20,2023-04-12,Bug,Closed,5.0
+241,52,2023-02-13,Onboarding,Closed,3.0
+243,253,2023-01-01,Billing,Closed,4.0
+245,74,2023-02-25,Feature request,Pending,2.0
+246,35,2023-06-05,Billing,Closed,3.0
+247,455,2023-02-08,Billing,Closed,2.0
+248,219,2023-04-21,Bug,Closed,2.0
+249,44,2023-02-11,Feature request,Closed,5.0
+250,206,2023-04-24,Bug,Closed,1.0
+251,286,2023-06-11,Billing,Closed,2.0
+252,467,2023-05-12,Bug,Pending,4.0
+253,301,2023-06-01,Bug,Pending,1.0
+254,296,2023-02-16,Onboarding,Closed,4.0
+255,266,2023-04-21,Billing,Closed,1.0
+256,74,2023-03-29,Billing,Closed,4.0
+257,112,2023-04-20,Feature request,Closed,3.0
+258,18,2023-04-02,Feature request,Closed,5.0
+259,499,2023-01-14,Feature request,Pending,4.0
+260,345,2023-01-27,Billing,Pending,3.0
+262,416,2023-06-03,Billing,Closed,4.0
+264,484,2023-02-04,Billing,Closed,4.0
+265,151,2023-06-07,Onboarding,Pending,5.0
+266,236,2023-06-06,Billing,Closed,5.0
+268,219,2023-04-24,Bug,Closed,1.0
+269,433,2023-06-18,Feature request,Pending,4.0
+270,57,2023-01-06,Onboarding,Closed,1.0
+271,58,2023-06-12,Bug,Closed,1.0
+273,241,2023-04-06,Onboarding,Closed,2.0
+274,384,2023-01-21,Billing,Closed,4.0
+275,322,2023-01-20,Onboarding,Pending,1.0
+276,304,2023-02-03,Billing,Closed,4.0
+277,94,2023-05-01,Bug,Closed,5.0
+278,368,2023-02-14,Onboarding,Closed,3.0
+279,60,2023-05-03,Onboarding,Open,5.0
+280,171,2023-04-09,Bug,Closed,3.0
+281,415,2023-05-16,Onboarding,Closed,4.0
+282,132,2023-04-05,Billing,Closed,5.0
+283,152,2023-03-08,Bug,Closed,2.0
+284,23,2023-03-15,Feature request,Open,3.0
+285,190,2023-01-07,Feature request,Closed,2.0
+286,477,2023-05-11,Billing,Closed,2.0
+287,470,2023-01-20,Feature request,Closed,3.0
+288,160,2023-03-23,Feature request,Closed,2.0
+289,299,2023-01-08,Onboarding,Pending,3.0
+290,360,2023-04-05,Onboarding,Closed,3.0
+291,267,2023-02-04,Feature request,Closed,5.0
+292,386,2023-02-27,Billing,Pending,2.0
+293,1,2023-01-30,Onboarding,Closed,3.0
+295,49,2023-04-19,Onboarding,Closed,1.0
+296,314,2023-04-28,Bug,Closed,5.0
+297,161,2023-04-07,Billing,Closed,3.0
+298,478,2023-05-25,Feature request,Pending,4.0
+299,228,2023-03-09,Feature request,Closed,3.0
+300,230,2023-01-23,Feature request,Pending,2.0
+301,387,2023-01-30,Onboarding,Closed,3.0
+302,348,2023-04-18,Billing,Closed,4.0
+303,85,2023-04-19,Bug,Closed,1.0
+304,263,2023-05-12,Onboarding,Closed,2.0
+305,456,2023-03-11,Bug,Closed,3.0
+306,386,2023-01-13,Feature request,Closed ,4.0
+307,97,2023-04-14,Bug,Closed,3.0
+308,179,2023-04-23,Feature request,Open,5.0
+309,213,2023-02-04,Feature request,Closed,3.0
+310,496,2023-03-01,Feature request,Closed,5.0
+312,412,2023-03-24,Bug,Closed,3.0
+313,204,2023-01-06,Bug,Closed,3.0
+314,278,2023-03-28,Bug,Closed,5.0
+315,5,2023-01-23,Billing,Closed,1.0
+316,230,2023-04-27,Billing,Closed,3.0
+317,347,2023-01-14,Bug,Closed,3.0
+318,338,2023-06-13,Feature request,Pending,5.0
+319,291,2023-04-07,Feature request,Closed,3.0
+320,486,2023-04-22,Feature request,Pending,5.0
+321,27,2023-01-25,Onboarding,Closed,4.0
+323,177,2023-06-24,Onboarding,Closed,4.0
+324,499,2023-06-03,Bug,Closed,3.0
+325,342,2023-03-04,Bug,Closed,5.0
+326,294,2023-03-18,Billing,Pending,2.0
+327,453,2023-06-23,Billing,Closed,2.0
+328,95,2023-06-04,Bug,Closed,4.0
+329,280,2023-05-29,Bug,Closed,3.0
+330,437,2023-06-07,Feature request,Pending,1.0
+331,389,2023-04-10,Onboarding,Closed,3.0
+332,207,2023-01-29,Feature request,Closed,1.0
+333,80,2023-03-23,Billing,Closed,2.0
+334,201,2023-05-21,Bug,Pending,3.0
+335,350,2023-01-13,Bug,Closed,3.0
+336,461,2023-05-11,Bug,Closed,3.0
+337,17,2023-04-12,Billing,Closed,3.0
+339,240,2023-05-06,Onboarding,Closed,5.0
+340,341,2023-04-24,Bug,Open,5.0
+341,339,2023-01-12,Feature request,Closed,1.0
+342,163,2023-04-17,Onboarding,Pending,2.0
+343,139,2023-02-22,Bug,Closed,5.0
+344,385,2023-04-30,Onboarding,Pending,4.0
+345,250,2023-04-05,Onboarding,Pending,5.0
+346,153,2023-06-02,Feature request,Closed,4.0
+347,260,2023-05-28,Billing,Closed,2.0
+348,370,2023-02-12,Bug,Closed,1.0
+349,61,2023-06-08,Feature request,Closed,2.0
+350,188,2023-03-08,Billing,Pending,2.0
+351,15,2023-04-13,Onboarding,Closed,4.0
+353,33,2023-03-24,Bug,Closed,5.0
+354,423,2023-06-06,Feature request,Pending,1.0
+355,83,2023-03-14,Billing,Closed,3.0
+356,270,2023-03-17,Feature request,Open,4.0
+357,104,2023-05-15,Billing,Open,3.0
+358,264,2023-05-19,Billing,Closed,1.0
+359,400,2023-05-16,Bug,Pending,3.0
+360,339,2023-05-25,Bug,Closed,1.0
+361,320,2023-03-29,Onboarding,Closed,5.0
+362,245,2023-04-12,Bug,Open,4.0
+363,201,2023-04-17,Bug,Closed,1.0
+364,352,2023-02-10,Billing,Closed,5.0
+365,141,2023-01-14,Billing,Closed,5.0
+366,315,2023-06-10,Bug,Closed,2.0
+367,113,2023-01-07,Onboarding,Open,2.0
+368,441,2023-03-12,Feature request,Closed,4.0
+369,325,2023-04-26,Onboarding,Closed,5.0
+370,285,2023-01-23,Billing,Pending,3.0
+371,76,2023-04-25,Feature request,Pending,3.0
+372,12,2023-05-12,Onboarding,Closed,1.0
+373,167,2023-05-09,Onboarding,Closed,4.0
+374,192,2023-05-02,Billing,Closed,3.0
+375,42,2023-01-28,Onboarding,Closed,4.0
+376,366,2023-01-09,Onboarding,Closed,5.0
+377,156,2023-05-28,Onboarding,Closed,1.0
+378,21,2023-04-20,Feature request,Pending,3.0
+379,239,2023-03-07,Bug,Pending,5.0
+380,125,2023-04-26,Billing,Closed,3.0
+381,169,2023-03-27,Billing,Closed,3.0
+382,448,2023-04-29,Onboarding,Closed,1.0
+383,148,2023-05-02,Feature request,Closed,2.0
+384,336,2023-04-25,Feature request,Open,1.0
+385,206,2023-04-04,Bug,Closed,1.0
+386,106,2023-05-16,Onboarding,Closed,2.0
+388,204,2023-06-07,Onboarding,Closed,5.0
+389,123,2023-01-10,Onboarding,Closed,1.0
+390,183,2023-01-14,Feature request,Pending,3.0
+391,390,2023-03-24,Feature request,Pending,3.0
+392,500,2023-06-17,Bug,Pending,1.0
+393,437,2023-01-18,Billing,Pending,3.0
+394,442,2023-03-14,Bug,Closed,5.0
+396,426,2023-03-28,Feature request,Closed,5.0
+397,160,2023-06-22,Bug,Closed,2.0
+398,459,2023-06-17,Billing,Closed,5.0
+399,224,2023-03-21,Onboarding,Closed,4.0
+401,175,2023-01-31,Bug,Closed,4.0
+402,51,2023-03-07,Feature request,Closed,3.0
+403,443,2023-05-24,Feature request,Closed,3.0
+404,341,2023-01-24,Bug,Closed,3.0
+405,490,2023-03-20,Onboarding,Closed,5.0
+406,401,2023-03-22,Onboarding,Closed,3.0
+407,453,2023-05-29,Bug,Closed,2.0
+408,494,2023-02-08,Onboarding,Closed,3.0
+409,218,2023-05-06,Bug,Closed,5.0
+410,153,2023-02-27,Billing,Closed,3.0
+412,299,2023-01-11,Feature request,Open,4.0
+413,465,2023-05-24,Onboarding,Open,3.0
+415,130,2023-05-24,Billing,Closed,1.0
+416,301,2023-06-04,Onboarding,Closed,2.0
+417,459,2023-05-12,Billing,Closed,2.0
+418,226,2023-03-18,Bug,Closed,2.0
+420,52,2023-03-11,Bug,Pending,3.0
+421,390,2023-02-18,Bug,Closed,3.0
+422,280,2023-02-09,Billing,Closed,3.0
+423,179,2023-05-08,Feature request,Closed,3.0
+424,500,2023-02-12,Feature request,Closed,5.0
+425,163,2023-05-10,Billing,Pending,3.0
+426,373,2023-06-18,Bug,Closed,4.0
+427,298,2023-04-09,Onboarding,Open,5.0
+428,412,2023-02-23,Onboarding,Closed,1.0
+429,156,2023-02-08,Feature request,Closed,2.0
+430,166,2023-05-04,Bug,Pending,4.0
+431,187,2023-01-16,Bug,Closed,5.0
+433,411,2023-05-21,Onboarding,Pending,1.0
+434,42,2023-06-16,Billing,Closed,4.0
+435,14,2023-04-16,Onboarding,Closed,4.0
+436,142,2023-02-18,Bug,Open,2.0
+437,51,2023-06-06,Billing,Open,1.0
+438,437,2023-02-25,Bug,Pending,3.0
+439,258,2023-02-14,Bug,Closed,4.0
+440,398,2023-04-20,Onboarding,Closed,5.0
+441,119,2023-01-12,Feature request,Closed,5.0
+442,190,2023-05-30,Bug,Closed,4.0
+443,153,2023-03-01,Billing,Pending,2.0
+444,121,2023-04-11,Feature request,Pending,3.0
+445,355,2023-04-19,Billing,Closed,4.0
+447,175,2023-06-23,Billing,Closed,3.0
+448,453,2023-04-24,Bug,Closed,3.0
+449,247,2023-01-17,Feature request,Closed,4.0
+450,30,2023-04-16,Billing,Closed,4.0
+451,120,2023-06-12,Feature request,Closed,4.0
+452,222,2023-03-27,Billing,Closed,4.0
+453,449,2023-01-04,Onboarding,Closed,3.0
+454,409,2023-05-29,Billing,Closed,2.0
+455,473,2023-04-09,Bug,Closed,4.0
+456,131,2023-04-30,Bug,Closed,4.0
+457,95,2023-04-22,Feature request,Open,4.0
+458,406,2023-01-27,Onboarding,Closed,3.0
+459,243,2023-05-22,Onboarding,Open,3.0
+460,346,2023-01-25,Onboarding,Pending,5.0
+461,372,2023-06-28,Billing,Closed,3.0
+462,267,2023-01-14,Billing,Closed,4.0
+463,439,2023-06-13,Feature request,Closed,2.0
+464,15,2023-06-21,Billing,Closed,3.0
+465,230,2023-03-21,Bug,Pending,4.0
+466,284,2023-06-01,Billing,Closed,5.0
+467,438,2023-04-17,Onboarding,Closed,5.0
+468,35,2023-01-05,Feature request,Closed,1.0
+469,359,2023-04-07,Feature request,Closed,3.0
+470,370,2023-05-26,Feature request,Open,4.0
+471,381,2023-04-22,Onboarding,Pending,4.0
+473,96,2023-01-21,Onboarding,Closed,4.0
+474,119,2023-01-29,Onboarding,Closed,1.0
+475,229,2023-05-16,Bug,Closed,5.0
+476,374,2023-02-15,Feature request,Closed,5.0
+477,331,2023-01-12,Onboarding,Closed,4.0
+478,36,2023-01-28,Bug,Closed,5.0
+480,480,2023-05-30,Onboarding,Closed,2.0
+481,286,2023-05-14,Feature request,Closed,2.0
+482,139,2023-02-14,Feature request,Closed,2.0
+484,468,2023-06-26,Onboarding,Closed,3.0
+487,340,2023-02-26,Bug,Closed,5.0
+488,311,2023-02-21,Billing,Pending,2.0
+489,10,2023-01-07,Bug,Open,1.0
+490,75,2023-02-25,Bug,Closed,3.0
+491,6,2023-02-13,Billing,Closed,3.0
+492,130,2023-01-01,Onboarding,Closed,2.0
+493,313,2023-05-26,Bug,Closed,4.0
+494,215,2023-03-16,Feature request,Open,2.0
+495,465,2023-03-16,Bug,Pending,3.0
+496,71,2023-01-20,Bug,Pending,4.0
+497,244,2023-01-27,Onboarding,Closed,4.0
+499,106,2023-01-13,Onboarding,Closed,4.0
+500,25,2023-02-07,Onboarding,Pending,1.0
+501,15,2023-03-12,Feature request,Closed,5.0
+502,44,2023-06-07,Bug,Pending,5.0
+503,229,2023-02-24,Feature request,Closed,4.0
+504,258,2023-03-17,Bug,Closed,2.0
+505,359,2023-05-21,Onboarding,Closed,4.0
+506,176,2023-05-09,Bug,Closed,1.0
+507,148,2023-05-27,Onboarding,Closed,5.0
+508,256,2023-06-12,Bug,Closed,4.0
+510,282,2023-02-02,Feature request,Pending,4.0
+511,26,2023-01-21,Bug,Closed,4.0
+512,260,2023-04-23,Feature request,Pending,2.0
+513,251,2023-03-09,Billing,Open,5.0
+514,271,2023-06-15,Onboarding,Pending,3.0
+515,422,2023-04-16,Feature request,Closed,5.0
+516,89,2023-05-22,Feature request,Closed,4.0
+517,308,2023-05-31,Feature request,Pending,4.0
+518,228,2023-03-02,Feature request,Closed,2.0
+519,46,2023-04-01,Billing,Closed,2.0
+520,332,2023-02-22,Onboarding,Closed,1.0
+522,187,2023-06-25,Feature request,Closed,1.0
+523,272,2023-01-10,Onboarding,Pending,4.0
+524,460,2023-03-09,Bug,Pending,2.0
+525,491,2023-01-27,Billing,Closed,2.0
+526,105,2023-06-13,Onboarding,Open,3.0
+527,264,2023-05-10,Bug,Closed,4.0
+529,314,2023-04-29,Billing,Open,5.0
+530,68,2023-05-24,Billing,Closed,2.0
+531,168,2023-02-04,Onboarding,Closed,3.0
+533,180,2023-06-09,Feature request,Closed,2.0
+534,386,2023-01-29,Bug,Closed,4.0
+535,146,2023-03-25,Feature request,Closed,2.0
+536,361,2023-01-05,Bug,Closed,3.0
+537,18,2023-05-19,Bug,Closed,1.0
+538,269,2023-03-22,Feature request,Closed,3.0
+539,494,2023-02-22,Feature request,Closed,4.0
+540,318,2023-01-08,Bug,Open,4.0
+541,16,2023-01-17,Onboarding,Closed,4.0
+542,168,2023-04-06,Feature request,Closed,2.0
+543,496,2023-03-05,Bug,Closed,2.0
+544,174,2023-06-19,Feature request,Closed,3.0
+545,32,2023-06-21,Onboarding,Closed ,4.0
+546,246,2023-06-24,Billing,Closed,3.0
+547,15,2023-06-06,Bug,Closed,5.0
+548,283,2023-04-14,Feature request,Closed,3.0
+549,276,2023-03-26,Billing,Open,3.0
+550,79,2023-05-08,Bug,Closed,5.0
+551,22,2023-06-07,Onboarding,Open,1.0
+553,297,2023-05-02,Billing,Closed,4.0
+554,259,2023-02-25,Feature request,Closed,4.0
+555,26,2023-06-27,Onboarding,Closed,2.0
+556,301,2023-01-20,Bug,Closed,2.0
+558,57,2023-05-14,Feature request,Open,4.0
+559,346,2023-04-14,Feature request,Closed,2.0
+560,450,2023-02-20,Feature request,Closed,2.0
+562,13,2023-01-27,Billing,Closed,4.0
+563,416,2023-06-15,Bug,Closed,5.0
+564,80,2023-01-22,Bug,Closed,4.0
+565,193,2023-01-04,Onboarding,Closed,5.0
+566,10,2023-02-11,Feature request,Closed,5.0
+567,360,2023-02-15,Billing,Closed,1.0
+568,357,2023-05-05,Feature request,Open,1.0
+569,274,2023-06-26,Onboarding,Closed,1.0
+570,22,2023-05-22,Billing,Closed,4.0
+571,288,2023-06-25,Bug,Closed,1.0
+572,400,2023-01-10,Feature request,Closed,4.0
+573,367,2023-02-14,Feature request,Closed,3.0
+575,361,2023-02-06,Feature request,Closed,4.0
+576,180,2023-06-25,Onboarding,Closed,3.0
+577,203,2023-03-14,Billing,Closed,5.0
+578,422,2023-06-19,Feature request,Closed,1.0
+579,308,2023-01-15,Onboarding,Closed,2.0
+580,493,2023-03-01,Bug,Closed,3.0
+581,148,2023-04-02,Onboarding,Closed,2.0
+582,29,2023-01-04,Feature request,Closed,4.0
+583,46,2023-06-04,Billing,Closed,5.0
+584,221,2023-01-07,Feature request,Closed,4.0
+585,217,2023-05-12,Bug,Closed,3.0
+586,229,2023-01-24,Onboarding,Closed,4.0
+587,486,2023-04-18,Bug,Closed,3.0
+588,151,2023-02-21,Feature request,Closed,4.0
+589,54,2023-03-18,Billing,Closed,4.0
+590,236,2023-05-16,Bug,Closed,5.0
+591,283,2023-04-15,Billing,Closed,5.0
+592,3,2023-04-13,Onboarding,Closed,3.0
+593,287,2023-06-29,Onboarding,Closed,5.0
+594,73,2023-06-09,Feature request,Closed,5.0
+595,217,2023-05-03,Onboarding,Pending,4.0
+596,246,2023-02-09,Feature request,Closed,1.0
+597,176,2023-04-18,Billing,Pending,2.0
+598,218,2023-02-13,Billing,Closed,3.0
+599,189,2023-01-17,Onboarding,Closed,3.0
+600,283,2023-02-20,Onboarding,Closed,2.0
+601,9,2023-03-07,Bug,Closed,4.0
+602,112,2023-04-25,Feature request,Closed,4.0
+603,11,2023-01-22,Feature request,Open,3.0
+604,115,2023-04-29,Feature request,Closed,4.0
+605,52,2023-06-17,Billing,Closed,2.0
+606,180,2023-01-10,Onboarding,Pending,1.0
+607,339,2023-06-16,Feature request,Closed,2.0
+608,221,2023-05-31,Billing,Pending,4.0
+609,282,2023-01-24,Billing,Closed,2.0
+610,197,2023-06-22,Billing,Pending,4.0
+611,169,2023-05-16,Billing,Closed,4.0
+612,261,2023-02-19,Onboarding,Closed,3.0
+613,253,2023-04-23,Feature request,Closed,1.0
+614,333,2023-06-03,Billing,Open,3.0
+615,259,2023-05-26,Onboarding,Closed,4.0
+616,38,2023-02-25,Feature request,Closed,2.0
+618,19,2023-06-24,Feature request,Closed,4.0
+619,120,2023-01-11,Onboarding,Closed,4.0
+620,392,2023-05-18,Onboarding,Closed,2.0
+621,493,2023-01-07,Bug,Closed,3.0
+622,494,2023-04-10,Bug,Pending,3.0
+623,73,2023-03-19,Billing,Closed,4.0
+625,151,2023-03-05,Bug,Closed,4.0
+626,109,2023-06-24,Bug,Closed,3.0
+627,281,2023-05-16,Feature request,Closed,2.0
+628,231,2023-02-06,Billing,Closed,3.0
+629,114,2023-05-18,Bug,Closed,3.0
+630,26,2023-04-03,Bug,Open,5.0
+631,199,2023-06-22,Feature request,Closed,2.0
+632,32,2023-01-29,Billing,Closed,2.0
+633,239,2023-04-02,Bug,Open,2.0
+634,453,2023-04-07,Feature request,Pending,4.0
+635,59,2023-04-23,Bug,Closed,4.0
+636,425,2023-03-14,Onboarding,Closed,5.0
+637,271,2023-01-05,Feature request,Closed,1.0
+638,220,2023-01-15,Onboarding,Pending,4.0
+639,326,2023-02-19,Feature request,Closed,4.0
+640,496,2023-04-29,Bug,Closed,4.0
+641,475,2023-02-14,Bug,Closed,2.0
+642,385,2023-06-24,Billing,Closed,2.0
+643,218,2023-01-03,Feature request,Closed,2.0
+644,290,2023-06-19,Bug,Closed,4.0
+645,175,2023-01-22,Onboarding,Closed,2.0
+646,350,2023-01-15,Feature request,Closed,1.0
+647,237,2023-02-24,Feature request,Closed,5.0
+648,98,2023-03-25,Bug,Closed,3.0
+649,11,2023-01-10,Feature request,Pending,4.0
+650,436,2023-03-04,Billing,Pending,4.0
+651,35,2023-06-26,Bug,Closed,2.0
+653,289,2023-06-08,Billing,Closed,2.0
+654,49,2023-01-22,Billing,Closed,3.0
+655,442,2023-01-07,Bug,Closed,4.0
+656,333,2023-06-16,Onboarding,Closed,5.0
+657,239,2023-02-26,Feature request,Closed,3.0
+658,283,2023-04-05,Bug,Closed,3.0
+659,119,2023-04-09,Onboarding,Closed,3.0
+660,353,2023-06-24,Billing,Pending,1.0
+661,263,2023-03-05,Billing,Closed,3.0
+662,58,2023-01-23,Feature request,Closed,3.0
+663,385,2023-05-13,Billing,Closed,5.0
+664,337,2023-01-30,Feature request,Closed,3.0
+665,500,2023-02-12,Bug,Pending,3.0
+666,238,2023-06-06,Billing,Pending,4.0
+667,191,2023-05-24,Bug,Closed,3.0
+668,336,2023-05-12,Bug,Closed,4.0
+669,181,2023-06-14,Onboarding,Closed,4.0
+670,9,2023-04-18,Onboarding,Closed,3.0
+671,216,2023-02-01,Feature request,Closed,3.0
+672,97,2023-02-19,Onboarding,Closed,3.0
+673,103,2023-01-26,Bug,Open,2.0
+674,89,2023-02-12,Onboarding,Closed,4.0
+675,419,2023-03-24,Billing,Pending,1.0
+676,91,2023-01-13,Billing,Pending,2.0
+677,101,2023-02-03,Bug,Closed,3.0
+678,397,2023-06-09,Billing,Pending,1.0
+679,432,2023-03-14,Bug,Closed,4.0
+680,111,2023-06-27,Onboarding,Closed,4.0
+681,254,2023-02-09,Onboarding,Closed,1.0
+682,326,2023-04-24,Feature request,Open,5.0
+683,31,2023-03-31,Billing,Closed,3.0
+684,176,2023-05-24,Bug,Closed,5.0
+685,119,2023-05-02,Onboarding,Closed,5.0
+686,355,2023-06-09,Billing,Pending,1.0
+687,328,2023-06-06,Billing,Closed,4.0
+688,245,2023-02-02,Bug,Pending,5.0
+689,451,2023-03-20,Feature request,Pending,1.0
+690,158,2023-03-31,Billing,Closed,1.0
+691,35,2023-05-28,Bug,Closed,3.0
+692,58,2023-02-23,Feature request,Pending,4.0
+693,164,2023-05-02,Billing,Closed,5.0
+694,174,2023-03-01,Billing,Closed,3.0
+695,500,2023-01-29,Onboarding,Closed,2.0
+696,161,2023-04-28,Bug,Closed,2.0
+697,470,2023-05-03,Bug,Closed,3.0
+698,495,2023-03-09,Bug,Closed,5.0
+700,169,2023-03-02,Billing,Open,3.0
+701,123,2023-01-20,Billing,Open,4.0
+702,448,2023-04-17,Onboarding,Closed,3.0
+703,63,2023-06-15,Feature request,Open,3.0
+704,48,2023-03-25,Bug,Closed,4.0
+705,366,2023-01-02,Bug,Closed,2.0
+707,35,2023-06-12,Onboarding,Closed,3.0
+708,195,2023-02-15,Bug,Closed,3.0
+709,332,2023-01-08,Onboarding,Closed,4.0
+710,157,2023-02-14,Feature request,Open,3.0
+711,145,2023-03-09,Onboarding,Closed,3.0
+712,422,2023-02-20,Onboarding,Closed,4.0
+713,457,2023-04-15,Billing,Closed,4.0
+714,81,2023-06-06,Onboarding,Closed,4.0
+716,352,2023-05-30,Billing,Open,3.0
+717,112,2023-05-16,Feature request,Closed,1.0
+718,377,2023-05-07,Onboarding,Closed,3.0
+719,347,2023-05-10,Feature request,Pending,3.0
+720,230,2023-01-21,Billing,Pending,3.0
+721,9,2023-05-19,Billing,Closed,2.0
+722,56,2023-02-26,Bug,Closed,5.0
+723,248,2023-01-21,Billing,Pending,5.0
+724,28,2023-02-25,Feature request,Closed,3.0
+725,208,2023-01-01,Feature request,Closed,4.0
+726,457,2023-02-14,Onboarding,Closed,2.0
+727,342,2023-03-10,Billing,Closed,2.0
+728,214,2023-04-06,Billing,Pending,3.0
+729,241,2023-04-14,Billing,Closed ,3.0
+730,298,2023-06-22,Onboarding,Closed,3.0
+731,335,2023-03-09,Onboarding,Closed,3.0
+733,255,2023-03-16,Billing,Closed,5.0
+735,421,2023-05-15,Bug,Closed,5.0
+736,133,2023-06-23,Bug,Closed,4.0
+737,334,2023-05-23,Billing,Closed,4.0
+738,388,2023-05-19,Billing,Closed,4.0
+739,492,2023-01-29,Billing,Pending,5.0
+740,24,2023-06-29,Billing,Pending,4.0
+741,207,2023-02-23,Bug,Closed,4.0
+742,358,2023-03-12,Billing,Closed,3.0
+743,134,2023-06-23,Bug,Closed,2.0
+744,412,2023-03-08,Feature request,Pending,2.0
+745,73,2023-02-22,Onboarding,Closed,4.0
+746,228,2023-01-01,Bug,Closed,3.0
+747,492,2023-03-27,Billing,Closed,1.0
+748,265,2023-03-20,Feature request,Closed,5.0
+749,102,2023-03-09,Onboarding,Closed,3.0
+750,193,2023-06-19,Bug,Closed,3.0
+751,268,2023-02-19,Bug,Open,3.0
+752,64,2023-03-14,Bug,Closed,2.0
+755,26,2023-04-12,Feature request,Closed,3.0
+756,419,2023-06-02,Billing,Closed,4.0
+757,447,2023-01-15,Onboarding,Pending,3.0
+758,353,2023-04-17,Onboarding,Closed,5.0
+759,179,2023-04-06,Feature request,Closed,1.0
+760,33,2023-02-11,Bug,Closed,4.0
+761,498,2023-04-26,Onboarding,Pending,2.0
+762,312,2023-04-13,Feature request,Pending,5.0
+763,360,2023-03-02,Bug,Pending,1.0
+764,80,2023-06-11,Bug,Closed,3.0
+765,237,2023-05-17,Billing,Closed,5.0
+766,124,2023-01-31,Billing,Pending,3.0
+767,468,2023-04-07,Billing,Closed,2.0
+768,237,2023-02-18,Onboarding,Closed,4.0
+769,470,2023-01-28,Billing,Closed,3.0
+770,340,2023-01-23,Billing,Pending,1.0
+772,299,2023-04-15,Onboarding,Open,3.0
+773,127,2023-03-05,Billing,Closed,4.0
+774,441,2023-03-25,Bug,Closed,3.0
+775,95,2023-05-21,Billing,Open,5.0
+776,29,2023-01-11,Billing,Closed,4.0
+777,235,2023-01-17,Onboarding,Pending,3.0
+778,488,2023-05-16,Onboarding,Closed,2.0
+780,401,2023-06-15,Billing,Pending,3.0
+781,234,2023-04-12,Billing,Closed,2.0
+782,142,2023-01-19,Billing,Closed,3.0
+783,131,2023-03-24,Billing,Closed,1.0
+784,194,2023-05-29,Billing,Closed,5.0
+785,487,2023-03-18,Feature request,Closed,2.0
+786,479,2023-05-28,Onboarding,Closed,4.0
+787,429,2023-01-04,Onboarding,Closed,5.0
+788,218,2023-02-15,Bug,Closed,5.0
+790,36,2023-05-01,Billing,Pending,4.0
+791,150,2023-05-26,Onboarding,Open,4.0
+792,98,2023-02-17,Bug,Closed,4.0
+793,169,2023-01-29,Onboarding,Open,1.0
+794,47,2023-02-23,Billing,Closed ,4.0
+795,1,2023-01-30,Feature request,Closed,5.0
+797,475,2023-05-20,Feature request,Closed,1.0
+798,198,2023-04-15,Feature request,Pending,3.0
+799,181,2023-03-08,Feature request,Open,3.0
+800,147,2023-02-02,Feature request,Closed,5.0
+802,106,2023-03-15,Bug,Closed,5.0
+803,268,2023-05-09,Bug,Closed,4.0
+804,126,2023-02-01,Bug,Pending,3.0
+805,26,2023-06-21,Bug,Closed,5.0
+806,301,2023-02-06,Billing,Closed,1.0
+807,467,2023-03-26,Onboarding,Closed,5.0
+808,55,2023-02-27,Bug,Closed,2.0
+809,410,2023-03-14,Onboarding,Closed,2.0
+810,184,2023-02-28,Billing,Closed,2.0
+811,35,2023-05-24,Billing,Closed,1.0
+813,109,2023-04-07,Billing,Closed,2.0
+814,141,2023-02-16,Billing,Closed,2.0
+815,14,2023-04-11,Billing,Open,5.0
+816,274,2023-06-23,Billing,Closed ,3.0
+817,467,2023-06-20,Feature request,Closed,4.0
+818,249,2023-01-09,Onboarding,Closed,3.0
+819,393,2023-05-06,Onboarding,Open,5.0
+820,488,2023-05-26,Billing,Pending,3.0
+822,233,2023-05-28,Bug,Pending,4.0
+823,335,2023-01-16,Billing,Closed,4.0
+824,18,2023-03-20,Feature request,Open,5.0
+825,406,2023-06-13,Onboarding,Closed,5.0
+826,114,2023-05-26,Billing,Pending,2.0
+827,394,2023-01-17,Feature request,Closed,2.0
+828,18,2023-06-09,Bug,Closed,5.0
+829,260,2023-01-07,Billing,Open,4.0
+830,399,2023-04-01,Bug,Closed,5.0
+831,185,2023-06-02,Billing,Pending,2.0
+832,256,2023-03-14,Billing,Closed,5.0
+833,495,2023-02-24,Bug,Closed,1.0
+834,380,2023-02-14,Billing,Pending,1.0
+835,346,2023-01-11,Onboarding,Open,5.0
+838,179,2023-04-14,Onboarding,Pending,4.0
+839,498,2023-06-10,Feature request,Closed,4.0
+840,412,2023-06-27,Bug,Closed,2.0
+841,487,2023-05-31,Onboarding,Closed,5.0
+842,470,2023-03-13,Billing,Closed,3.0
+843,50,2023-03-27,Feature request,Closed,3.0
+844,16,2023-02-15,Onboarding,Closed,2.0
+845,98,2023-03-11,Onboarding,Pending,4.0
+846,219,2023-02-24,Feature request,Closed,3.0
+847,110,2023-05-28,Feature request,Pending,2.0
+849,121,2023-03-14,Bug,Open,3.0
+850,240,2023-05-26,Billing,Closed,3.0
+852,246,2023-06-02,Onboarding,Pending,1.0
+853,41,2023-01-28,Feature request,Closed,5.0
+854,454,2023-03-01,Billing,Pending,3.0
+855,351,2023-04-24,Billing,Closed,4.0
+856,122,2023-02-12,Onboarding,Open,4.0
+857,309,2023-01-19,Bug,Closed,5.0
+858,260,2023-05-11,Bug,Closed,4.0
+859,332,2023-06-25,Bug,Closed,4.0
+860,214,2023-03-13,Billing,Pending,3.0
+862,390,2023-06-28,Billing,Pending,5.0
+863,13,2023-03-11,Bug,Closed,1.0
+864,381,2023-01-16,Onboarding,Closed,4.0
+865,226,2023-01-28,Onboarding,Open,3.0
+866,335,2023-01-17,Billing,Pending,4.0
+867,479,2023-01-22,Onboarding,Closed,3.0
+868,477,2023-06-24,Feature request,Closed,4.0
+869,170,2023-06-01,Bug,Closed,3.0
+870,60,2023-06-18,Feature request,Closed,4.0
+871,362,2023-02-24,Feature request,Closed,2.0
+872,469,2023-02-25,Bug,Open,4.0
+874,39,2023-01-28,Feature request,Closed,4.0
+876,183,2023-02-03,Onboarding,Pending,2.0
+877,475,2023-05-31,Onboarding,Closed,5.0
+878,500,2023-03-06,Feature request,Pending,1.0
+879,124,2023-05-30,Billing,Closed,2.0
+880,142,2023-03-06,Feature request,Closed,5.0
+881,85,2023-05-19,Bug,Closed,5.0
+882,183,2023-03-19,Feature request,Pending,2.0
+883,50,2023-06-17,Onboarding,Closed,2.0
+884,300,2023-05-15,Feature request,Closed,3.0
+885,467,2023-02-28,Feature request,Pending,4.0
+886,195,2023-03-11,Bug,Closed,2.0
+887,355,2023-01-04,Feature request,Pending,2.0
+888,271,2023-03-28,Feature request,Open,4.0
+889,397,2023-05-20,Bug,Closed,4.0
+890,262,2023-05-29,Billing,Open,1.0
+891,420,2023-02-25,Onboarding,Open,2.0
+892,268,2023-06-01,Bug,Closed,2.0
+893,88,2023-04-03,Feature request,Closed ,4.0
+894,13,2023-06-06,Billing,Closed,2.0
+895,384,2023-01-12,Billing,Closed,5.0
+896,245,2023-01-04,Bug,Closed ,2.0
+897,384,2023-01-02,Feature request,Pending,4.0
+898,185,2023-01-17,Onboarding,Pending,4.0
+899,9,2023-04-11,Onboarding,Closed,4.0
+900,233,2023-04-04,Onboarding,Closed,4.0
+901,211,2023-01-20,Feature request,Closed,3.0
+902,123,2023-04-17,Billing,Closed,4.0
+903,35,2023-06-06,Bug,Closed,3.0
+905,409,2023-04-06,Billing,Closed,4.0
+906,483,2023-03-16,Bug,Closed,3.0
+907,62,2023-04-12,Bug,Closed,3.0
+908,166,2023-06-08,Billing,Closed,3.0
+909,313,2023-05-26,Onboarding,Closed,3.0
+910,114,2023-06-03,Billing,Closed ,1.0
+911,143,2023-05-26,Billing,Closed,4.0
+912,22,2023-02-22,Feature request,Pending,3.0
+913,358,2023-03-15,Bug,Closed,2.0
+916,96,2023-05-25,Billing,Pending,4.0
+917,170,2023-04-20,Billing,Pending,3.0
+918,303,2023-05-17,Billing,Closed,4.0
+919,338,2023-04-19,Feature request,Closed,4.0
+920,234,2023-02-06,Billing,Closed,5.0
+921,307,2023-01-03,Feature request,Closed,5.0
+922,210,2023-01-12,Feature request,Closed,3.0
+923,252,2023-01-27,Feature request,Open,4.0
+924,112,2023-03-31,Feature request,Pending,2.0
+925,196,2023-05-03,Bug,Open,4.0
+926,73,2023-04-22,Billing,Closed,2.0
+927,281,2023-03-15,Feature request,Closed,3.0
+928,58,2023-01-05,Bug,Closed,1.0
+929,486,2023-06-20,Billing,Closed,4.0
+930,150,2023-05-04,Onboarding,Open,3.0
+932,446,2023-02-06,Billing,Closed,3.0
+933,83,2023-04-20,Feature request,Pending,4.0
+934,485,2023-01-06,Onboarding,Closed,5.0
+935,7,2023-03-26,Bug,Closed,5.0
+936,179,2023-01-02,Onboarding,Closed,4.0
+937,365,2023-06-22,Onboarding,Closed,2.0
+938,10,2023-03-23,Billing,Closed,1.0
+939,286,2023-04-07,Onboarding,Closed,4.0
+940,351,2023-04-07,Bug,Closed,5.0
+941,66,2023-05-19,Onboarding,Closed,2.0
+942,173,2023-02-28,Bug,Closed,3.0
+943,65,2023-04-14,Onboarding,Closed,4.0
+945,368,2023-04-15,Billing,Closed,5.0
+946,42,2023-02-21,Billing,Closed,1.0
+947,198,2023-05-04,Billing,Open,5.0
+948,74,2023-01-27,Feature request,Closed,1.0
+949,383,2023-02-12,Feature request,Closed,3.0
+950,314,2023-05-15,Bug,Closed,4.0
+951,224,2023-05-25,Feature request,Closed,4.0
+952,438,2023-01-25,Billing,Closed,3.0
+953,179,2023-04-24,Billing,Pending,1.0
+954,225,2023-02-04,Onboarding,Closed,5.0
+955,457,2023-05-31,Bug,Closed,4.0
+956,155,2023-05-16,Onboarding,Pending,4.0
+957,245,2023-04-01,Onboarding,Closed,2.0
+958,45,2023-03-09,Feature request,Closed,3.0
+959,34,2023-06-08,Billing,Closed,3.0
+960,391,2023-06-01,Onboarding,Closed,1.0
+961,169,2023-01-30,Onboarding,Closed,5.0
+962,207,2023-06-22,Billing,Closed,2.0
+963,177,2023-06-18,Bug,Closed,4.0
+964,350,2023-02-25,Onboarding,Closed,5.0
+965,69,2023-06-12,Feature request,Closed,5.0
+966,387,2023-06-15,Bug,Closed,4.0
+967,338,2023-05-05,Bug,Closed,2.0
+968,214,2023-03-23,Billing,Closed,5.0
+969,330,2023-05-31,Feature request,Open,2.0
+970,444,2023-06-14,Billing,Closed,3.0
+971,227,2023-06-26,Feature request,Closed,1.0
+973,60,2023-02-04,Onboarding,Pending,4.0
+974,235,2023-02-26,Bug,Closed,5.0
+975,388,2023-04-27,Feature request,Closed,1.0
+976,193,2023-02-18,Bug,Closed,3.0
+977,496,2023-02-01,Billing,Closed,2.0
+978,18,2023-05-07,Onboarding,Closed,1.0
+979,102,2023-06-11,Bug,Pending,3.0
+980,63,2023-01-29,Onboarding,Closed,4.0
+982,104,2023-05-14,Billing,Closed,5.0
+983,167,2023-04-21,Bug,Closed,1.0
+984,361,2023-06-15,Onboarding,Closed,3.0
+986,113,2023-02-11,Bug,Pending,4.0
+987,268,2023-05-25,Bug,Closed,2.0
+988,456,2023-06-23,Bug,Closed,4.0
+989,76,2023-04-29,Bug,Closed,3.0
+990,461,2023-05-28,Billing,Closed,3.0
+991,498,2023-04-17,Billing,Closed,5.0
+993,84,2023-05-07,Bug,Closed,1.0
+994,284,2023-04-23,Onboarding,Closed,4.0
+995,159,2023-04-02,Bug,Closed,2.0
+997,492,2023-06-23,Feature request,Closed,4.0
+998,386,2023-01-05,Onboarding,Closed,3.0
+1000,57,2023-05-24,Onboarding,Closed,4.0
+1001,205,2023-01-24,Bug,Pending,3.0
+1002,189,2023-01-20,Bug,Closed,4.0
+1003,399,2023-02-25,Bug,Open,3.0
+1004,424,2023-03-06,Bug,Pending,3.0
+1005,121,2023-06-02,Feature request,Pending,3.0
+1006,120,2023-03-01,Onboarding,Closed,4.0
+1007,245,2023-04-03,Onboarding,Closed,2.0
+1008,66,2023-05-20,Onboarding,Closed,4.0
+1009,461,2023-02-08,Billing,Closed,3.0
+1010,78,2023-01-19,Bug,Closed,3.0
+1011,458,2023-06-17,Onboarding,Closed,2.0
+1012,12,2023-05-10,Bug,Closed,5.0
+1013,69,2023-01-31,Billing,Closed,4.0
+1014,386,2023-06-20,Billing,Closed,2.0
+1015,110,2023-06-07,Feature request,Closed,1.0
+1016,377,2023-02-17,Onboarding,Pending,4.0
+1017,49,2023-06-10,Onboarding,Closed,2.0
+1018,184,2023-03-07,Billing,Closed,4.0
+1019,207,2023-02-18,Billing,Closed,4.0
+1021,279,2023-02-15,Feature request,Closed,3.0
+1022,442,2023-04-19,Feature request,Closed,5.0
+1023,170,2023-01-26,Billing,Open,2.0
+1024,423,2023-04-18,Onboarding,Pending,4.0
+1025,415,2023-06-19,Feature request,Pending,5.0
+1027,451,2023-02-06,Feature request,Pending,1.0
+1028,479,2023-03-11,Bug,Closed,4.0
+1029,224,2023-06-18,Feature request,Closed,2.0
+1030,254,2023-06-18,Feature request,Closed,1.0
+1031,244,2023-02-05,Feature request,Pending,3.0
+1032,36,2023-03-23,Feature request,Pending,4.0
+1033,180,2023-01-03,Feature request,Closed,4.0
+1034,36,2023-06-04,Onboarding,Closed,1.0
+1035,43,2023-01-17,Billing,Closed,4.0
+1036,434,2023-01-31,Onboarding,Closed,3.0
+1037,311,2023-04-25,Onboarding,Closed,4.0
+1038,349,2023-01-10,Onboarding,Closed ,5.0
+1039,452,2023-06-25,Onboarding,Open,3.0
+1040,315,2023-05-26,Onboarding,Closed,4.0
+1041,268,2023-02-11,Onboarding,Pending,1.0
+1043,3,2023-01-19,Onboarding,Pending,3.0
+1044,459,2023-06-14,Billing,Closed,1.0
+1045,336,2023-02-09,Onboarding,Pending,3.0
+1046,182,2023-03-30,Billing,Closed,4.0
+1047,239,2023-04-17,Billing,Closed,4.0
+1048,287,2023-03-18,Billing,Closed,5.0
+1049,123,2023-05-31,Billing,Closed,5.0
+1052,291,2023-01-07,Bug,Closed ,3.0
+1053,288,2023-05-24,Feature request,Closed,4.0
+1055,391,2023-05-27,Onboarding,Closed,5.0
+1056,306,2023-05-18,Bug,Closed,3.0
+1057,423,2023-01-06,Feature request,Closed,3.0
+1058,248,2023-05-25,Bug,Closed,3.0
+1059,123,2023-02-06,Feature request,Closed,4.0
+1060,426,2023-01-29,Bug,Closed,3.0
+1061,468,2023-02-05,Feature request,Pending,2.0
+1062,416,2023-05-28,Bug,Pending,3.0
+1063,205,2023-03-26,Bug,Closed,2.0
+1064,51,2023-05-18,Billing,Closed,3.0
+1065,286,2023-01-18,Bug,Closed,3.0
+1066,223,2023-06-12,Bug,Pending,5.0
+1067,18,2023-02-12,Onboarding,Closed,4.0
+1068,264,2023-03-30,Feature request,Pending,2.0
+1069,450,2023-02-20,Feature request,Pending,4.0
+1070,222,2023-04-05,Bug,Closed,3.0
+1071,423,2023-02-28,Bug,Open,4.0
+1072,478,2023-05-27,Onboarding,Closed,1.0
+1073,144,2023-02-25,Bug,Open,4.0
+1074,25,2023-05-02,Onboarding,Closed,3.0
+1075,202,2023-04-25,Bug,Closed,4.0
+1076,38,2023-05-19,Billing,Open,2.0
+1077,241,2023-03-30,Bug,Closed,4.0
+1078,424,2023-01-09,Feature request,Pending,5.0
+1079,301,2023-06-09,Billing,Closed,3.0
+1080,155,2023-03-08,Bug,Closed,4.0
+1081,224,2023-01-09,Bug,Closed,4.0
+1082,246,2023-06-23,Onboarding,Closed,3.0
+1083,414,2023-02-04,Feature request,Pending,3.0
+1084,454,2023-01-06,Billing,Closed,3.0
+1085,261,2023-02-08,Feature request,Closed,4.0
+1086,137,2023-03-23,Billing,Pending,4.0
+1087,271,2023-02-04,Onboarding,Pending,2.0
+1089,179,2023-01-11,Onboarding,Pending,2.0
+1090,16,2023-06-06,Feature request,Closed,2.0
+1092,309,2023-01-28,Onboarding,Closed,3.0
+1093,155,2023-06-10,Feature request,Pending,3.0
+1095,211,2023-05-15,Onboarding,Closed,5.0
+1097,119,2023-02-12,Billing,Closed,2.0
+1098,15,2023-06-20,Bug,Closed,4.0
+1099,142,2023-03-03,Billing,Closed,2.0
+1100,156,2023-03-26,Feature request,Closed,3.0
+1101,79,2023-06-07,Bug,Pending,4.0
+1102,351,2023-04-05,Feature request,Closed,4.0
+1103,58,2023-04-29,Bug,Closed,4.0
+1104,84,2023-04-09,Feature request,Closed,3.0
+1105,251,2023-06-10,Bug,Closed,1.0
+1106,495,2023-02-26,Feature request,Pending,2.0
+1107,75,2023-01-10,Bug,Closed,4.0
+1108,383,2023-04-06,Billing,Closed,3.0
+1109,309,2023-04-11,Bug,Closed,2.0
+1110,294,2023-05-25,Billing,Closed,3.0
+1111,151,2023-03-24,Billing,Closed,5.0
+1112,297,2023-02-12,Bug,Closed,2.0
+1113,455,2023-03-01,Feature request,Closed,5.0
+1114,458,2023-03-11,Onboarding,Closed,3.0
+1115,333,2023-02-25,Billing,Closed,2.0
+1116,201,2023-02-03,Onboarding,Closed,5.0
+1117,284,2023-06-20,Onboarding,Closed,5.0
+1118,301,2023-05-12,Feature request,Open,5.0
+1119,211,2023-02-07,Onboarding,Closed,5.0
+1120,200,2023-05-11,Onboarding,Pending,1.0
+1121,153,2023-06-04,Bug,Closed,4.0
+1122,455,2023-04-07,Bug,Closed,2.0
+1123,350,2023-05-08,Feature request,Closed,3.0
+1127,244,2023-06-12,Bug,Closed,1.0
+1128,392,2023-01-14,Feature request,Closed,3.0
+1130,49,2023-02-15,Bug,Closed,3.0
+1131,118,2023-03-31,Onboarding,Closed,3.0
+1132,367,2023-05-25,Onboarding,Open,2.0
+1133,177,2023-01-20,Bug,Closed,4.0
+1134,213,2023-02-05,Onboarding,Closed,4.0
+1135,92,2023-02-07,Feature request,Closed,2.0
+1136,189,2023-01-07,Billing,Closed,3.0
+1138,454,2023-06-22,Onboarding,Closed,2.0
+1139,330,2023-06-26,Bug,Open,5.0
+1140,395,2023-05-06,Feature request,Closed,2.0
+1141,357,2023-01-11,Bug,Pending,3.0
+1142,2,2023-06-04,Bug,Closed,4.0
+1143,38,2023-05-08,Feature request,Pending,2.0
+1144,370,2023-05-05,Billing,Closed,2.0
+1146,26,2023-03-25,Feature request,Open,1.0
+1147,239,2023-01-22,Bug,Closed,4.0
+1148,221,2023-04-26,Bug,Closed,3.0
+1149,347,2023-01-14,Feature request,Open,4.0
+1150,63,2023-01-12,Bug,Closed,5.0
+1151,180,2023-06-01,Feature request,Closed,1.0
+1152,401,2023-02-26,Bug,Closed,3.0
+1153,441,2023-05-25,Feature request,Closed,2.0
+1154,154,2023-05-19,Bug,Open,2.0
+1155,137,2023-04-01,Billing,Pending,3.0
+1156,88,2023-03-03,Bug,Closed,1.0
+1157,84,2023-06-21,Bug,Pending,5.0
+1158,336,2023-04-01,Feature request,Pending,3.0
+1159,32,2023-02-23,Billing,Closed,5.0
+1160,384,2023-03-08,Feature request,Closed,5.0
+1161,67,2023-03-27,Onboarding,Pending,2.0
+1162,205,2023-06-15,Billing,Pending,3.0
+1163,234,2023-05-05,Feature request,Closed,3.0
+1164,374,2023-04-25,Onboarding,Open,4.0
+1165,428,2023-03-21,Bug,Closed,5.0
+1166,276,2023-04-11,Onboarding,Open,5.0
+1167,385,2023-02-16,Onboarding,Closed,3.0
+1168,97,2023-01-17,Billing,Closed,5.0
+1169,157,2023-02-18,Bug,Open,3.0
+1170,377,2023-05-17,Billing,Pending,4.0
+1171,146,2023-01-15,Feature request,Pending,5.0
+1172,237,2023-05-20,Billing,Open,2.0
+1173,164,2023-04-02,Bug,Pending,5.0
+1175,376,2023-04-14,Feature request,Closed,5.0
+1176,251,2023-02-03,Bug,Closed,2.0
+1178,269,2023-03-08,Billing,Closed,5.0
+1179,184,2023-04-10,Bug,Closed,4.0
+1181,255,2023-04-17,Bug,Pending,1.0
+1182,196,2023-05-31,Onboarding,Closed,5.0
+1183,409,2023-04-30,Feature request,Closed,2.0
+1184,62,2023-02-15,Feature request,Closed,1.0
+1185,21,2023-05-05,Onboarding,Closed,5.0
+1186,314,2023-04-07,Feature request,Pending,4.0
+1187,378,2023-04-07,Onboarding,Closed,3.0
+1188,472,2023-03-16,Onboarding,Closed,3.0
+1189,94,2023-01-10,Bug,Closed,2.0
+1190,459,2023-03-23,Feature request,Closed,3.0
+1191,333,2023-01-11,Feature request,Pending,3.0
+1192,448,2023-04-29,Billing,Closed,5.0
+1193,240,2023-03-25,Onboarding,Closed,3.0
+1194,338,2023-01-07,Feature request,Closed,3.0
+1195,356,2023-02-16,Feature request,Closed,3.0
+1196,483,2023-02-16,Onboarding,Closed,1.0
+1197,219,2023-02-12,Bug,Closed,1.0
+1198,399,2023-05-12,Feature request,Closed,5.0
+1199,377,2023-05-22,Onboarding,Closed,5.0
+1200,63,2023-01-14,Bug,Closed,4.0
+1202,153,2023-05-04,Feature request,Closed,3.0
+1203,151,2023-05-28,Bug,Closed,4.0
+1204,485,2023-02-20,Onboarding,Closed,5.0
+1205,304,2023-05-24,Onboarding,Pending,2.0
+1206,252,2023-02-06,Onboarding,Closed,3.0
+1207,142,2023-02-01,Bug,Closed,3.0
+1208,372,2023-05-27,Feature request,Pending,5.0
+1209,204,2023-03-17,Billing,Pending,2.0
+1212,334,2023-02-14,Billing,Closed,3.0
+1213,204,2023-01-19,Feature request,Closed,1.0
+1214,425,2023-06-07,Feature request,Pending,5.0
+1215,211,2023-06-03,Billing,Closed,1.0
+1216,208,2023-01-05,Bug,Open,5.0
+1217,103,2023-06-23,Billing,Open,5.0
+1218,325,2023-06-23,Onboarding,Closed,2.0
+1219,93,2023-05-09,Bug,Pending,5.0
+1220,468,2023-03-06,Billing,Open,1.0
+1221,329,2023-02-22,Billing,Closed,4.0
+1222,5,2023-01-30,Feature request,Closed,4.0
+1223,73,2023-02-26,Onboarding,Closed,3.0
+1224,186,2023-06-19,Feature request,Pending,3.0
+1225,202,2023-01-14,Bug,Pending,3.0
+1226,494,2023-03-11,Feature request,Closed,2.0
+1227,478,2023-03-10,Bug,Closed ,4.0
+1228,419,2023-05-22,Billing,Open,4.0
+1229,371,2023-01-04,Billing,Closed,2.0
+1231,121,2023-06-28,Onboarding,Closed,1.0
+1233,136,2023-01-27,Onboarding,Pending,5.0
+1234,452,2023-05-27,Feature request,Pending,3.0
+1235,196,2023-05-04,Feature request,Closed,2.0
+1236,459,2023-05-27,Onboarding,Closed,4.0
+1237,500,2023-04-04,Onboarding,Closed,4.0
+1238,82,2023-02-16,Billing,Open,4.0
+1239,37,2023-05-25,Billing,Open,2.0
+1240,228,2023-03-22,Onboarding,Closed,3.0
+1241,74,2023-05-08,Onboarding,Closed,3.0
+1242,357,2023-02-15,Onboarding,Closed,5.0
+1244,371,2023-03-08,Onboarding,Closed,1.0
+1245,345,2023-04-18,Bug,Closed,4.0
+1246,405,2023-05-28,Bug,Closed,1.0
+1247,204,2023-03-08,Onboarding,Closed,3.0
+1248,454,2023-05-02,Feature request,Pending,3.0
+1249,350,2023-04-17,Bug,Closed ,2.0
+1250,235,2023-05-13,Bug,Pending,4.0
+1251,13,2023-01-14,Onboarding,Closed,2.0
+1252,119,2023-04-17,Feature request,Closed,1.0
+1253,81,2023-04-30,Feature request,Open,3.0
+1254,84,2023-05-07,Bug,Closed,2.0
+1255,313,2023-01-04,Onboarding,Closed,4.0
+1257,432,2023-03-06,Onboarding,Pending,1.0
+1258,111,2023-06-16,Billing,Open,5.0
+1259,89,2023-05-18,Feature request,Closed,4.0
+1260,195,2023-04-26,Bug,Closed,5.0
+1261,382,2023-01-22,Bug,Closed,3.0
+1262,487,2023-03-28,Bug,Closed,2.0
+1263,236,2023-01-22,Feature request,Closed,2.0
+1264,16,2023-05-16,Bug,Closed,4.0
+1265,476,2023-01-11,Bug,Closed,4.0
+1266,14,2023-04-22,Onboarding,Closed,3.0
+1267,69,2023-02-15,Onboarding,Pending,2.0
+1268,187,2023-02-20,Feature request,Closed,5.0
+1270,412,2023-03-06,Billing,Closed,4.0
+1272,300,2023-06-02,Bug,Closed,3.0
+1273,187,2023-04-24,Billing,Closed ,3.0
+1274,371,2023-01-19,Feature request,Open,3.0
+1275,407,2023-05-03,Onboarding,Closed,4.0
+1276,368,2023-05-19,Bug,Closed,4.0
+1277,254,2023-02-14,Bug,Pending,4.0
+1279,40,2023-06-06,Feature request,Pending,5.0
+1280,493,2023-04-28,Onboarding,Open,5.0
+1282,488,2023-04-09,Feature request,Closed,3.0
+1283,292,2023-03-19,Bug,Closed,3.0
+1284,177,2023-06-18,Bug,Pending,1.0
+1285,103,2023-01-07,Bug,Closed,3.0
+1286,497,2023-05-13,Onboarding,Closed,4.0
+1287,318,2023-03-15,Feature request,Closed,4.0
+1288,80,2023-05-17,Bug,Pending,2.0
+1289,160,2023-02-20,Onboarding,Open,1.0
+1290,17,2023-01-18,Onboarding,Closed,2.0
+1291,116,2023-01-12,Billing,Closed,1.0
+1292,278,2023-02-09,Bug,Closed,3.0
+1293,145,2023-03-05,Billing,Closed,5.0
+1294,257,2023-01-09,Onboarding,Closed,4.0
+1295,287,2023-05-10,Onboarding,Closed,3.0
+1296,162,2023-05-22,Bug,Closed,3.0
+1297,129,2023-06-23,Onboarding,Closed,2.0
+1298,259,2023-04-27,Onboarding,Closed,4.0
+1299,318,2023-03-16,Bug,Closed,5.0
+1300,262,2023-05-08,Bug,Pending,4.0
+1301,146,2023-01-05,Onboarding,Closed,2.0
+1302,5,2023-02-21,Bug,Closed,4.0
+1303,13,2023-03-23,Onboarding,Closed,3.0
+1307,102,2023-06-22,Feature request,Open,3.0
+1308,297,2023-03-26,Onboarding,Closed,3.0
+1309,483,2023-04-27,Bug,Closed,4.0
+1311,112,2023-04-03,Onboarding,Closed,1.0
+1312,49,2023-06-20,Onboarding,Closed,2.0
+1313,419,2023-03-06,Billing,Closed,3.0
+1314,226,2023-01-05,Onboarding,Closed,3.0
+1315,138,2023-04-22,Feature request,Pending,3.0
+1316,417,2023-03-12,Onboarding,Closed,1.0
+1317,378,2023-01-23,Bug,Pending,2.0
+1318,384,2023-04-19,Bug,Pending,3.0
+1319,106,2023-03-06,Onboarding,Pending,4.0
+1320,328,2023-02-04,Onboarding,Closed,3.0
+1321,227,2023-05-08,Onboarding,Closed,5.0
+1322,74,2023-02-03,Bug,Closed,5.0
+1324,375,2023-02-08,Billing,Closed,2.0
+1325,204,2023-06-16,Billing,Pending,2.0
+1326,107,2023-06-06,Onboarding,Closed,1.0
+1327,235,2023-03-02,Billing,Open,3.0
+1328,280,2023-03-05,Bug,Open,4.0
+1329,185,2023-06-25,Feature request,Closed,3.0
+1330,339,2023-01-11,Bug,Closed,3.0
+1331,333,2023-05-07,Bug,Closed,3.0
+1332,280,2023-03-17,Billing,Closed,3.0
+1333,251,2023-04-07,Onboarding,Closed,4.0
+1334,143,2023-02-09,Bug,Closed,2.0
+1335,104,2023-06-17,Billing,Pending,1.0
+1336,208,2023-02-12,Billing,Closed,4.0
+1338,247,2023-05-13,Feature request,Closed,4.0
+1339,330,2023-02-16,Billing,Closed,2.0
+1340,33,2023-05-15,Onboarding,Open,4.0
+1341,58,2023-03-05,Billing,Pending,1.0
+1342,284,2023-03-08,Onboarding,Closed,4.0
+1343,421,2023-04-21,Onboarding,Pending,1.0
+1344,402,2023-06-13,Bug,Closed,2.0
+1345,105,2023-06-17,Bug,Closed,4.0
+1346,416,2023-02-17,Onboarding,Open,3.0
+1347,466,2023-03-08,Feature request,Closed,4.0
+1348,119,2023-02-06,Feature request,Closed,3.0
+1349,254,2023-03-24,Feature request,Pending,4.0
+1350,425,2023-06-04,Billing,Closed,4.0
+1351,112,2023-04-17,Billing,Closed,5.0
+1352,323,2023-04-19,Feature request,Pending,3.0
+1353,351,2023-04-03,Onboarding,Pending,3.0
+1354,301,2023-06-20,Billing,Closed,3.0
+1355,294,2023-02-26,Bug,Open,5.0
+1356,455,2023-06-05,Bug,Open,5.0
+1357,245,2023-01-24,Feature request,Pending,5.0
+1358,216,2023-03-04,Feature request,Open,3.0
+1359,464,2023-03-16,Bug,Pending,1.0
+1360,436,2023-03-01,Billing,Closed,4.0
+1361,130,2023-05-15,Bug,Open,4.0
+1362,424,2023-06-23,Bug,Closed,2.0
+1364,70,2023-05-03,Onboarding,Closed,5.0
+1365,392,2023-06-15,Onboarding,Open,3.0
+1366,245,2023-04-03,Billing,Closed,2.0
+1367,208,2023-04-21,Feature request,Closed,4.0
+1368,240,2023-01-05,Bug,Closed,2.0
+1369,374,2023-02-17,Feature request,Closed,3.0
+1371,477,2023-03-09,Onboarding,Closed,4.0
+1372,262,2023-03-29,Onboarding,Closed,5.0
+1373,253,2023-03-27,Feature request,Closed,2.0
+1374,426,2023-01-21,Bug,Closed ,4.0
+1375,64,2023-06-20,Billing,Pending,4.0
+1376,477,2023-06-26,Bug,Pending,1.0
+1378,495,2023-06-18,Feature request,Pending,4.0
+1379,364,2023-02-24,Feature request,Closed,2.0
+1380,70,2023-01-27,Bug,Closed,2.0
+1381,186,2023-06-13,Billing,Pending,1.0
+1382,45,2023-03-20,Feature request,Pending,1.0
+1383,139,2023-03-26,Bug,Closed,2.0
+1385,233,2023-05-13,Bug,Open,4.0
+1387,139,2023-03-11,Onboarding,Closed,1.0
+1388,212,2023-02-25,Bug,Closed,1.0
+1390,199,2023-03-30,Onboarding,Open,1.0
+1391,390,2023-05-25,Feature request,Pending,5.0
+1392,499,2023-06-21,Bug,Pending,4.0
+1393,70,2023-05-15,Bug,Closed,1.0
+1394,415,2023-05-16,Billing,Open,3.0
+1395,172,2023-01-21,Feature request,Closed,3.0
+1396,349,2023-06-04,Feature request,Open,5.0
+1397,395,2023-04-25,Billing,Closed,3.0
+1398,37,2023-05-22,Bug,Closed,4.0
+1399,272,2023-03-22,Onboarding,Pending,3.0
+1401,483,2023-01-04,Onboarding,Closed,2.0
+1402,479,2023-01-17,Bug,Pending,4.0
+1403,207,2023-01-06,Billing,Closed,3.0
+1404,479,2023-05-24,Bug,Pending,4.0
+1405,468,2023-02-02,Bug,Pending,3.0
+1406,97,2023-06-07,Billing,Closed,3.0
+1407,262,2023-06-01,Billing,Closed,1.0
+1408,475,2023-04-26,Bug,Closed,2.0
+1409,223,2023-06-14,Bug,Closed,5.0
+1410,277,2023-05-16,Feature request,Closed,1.0
+1411,361,2023-01-06,Feature request,Closed,2.0
+1412,70,2023-05-13,Bug,Pending,3.0
+1413,212,2023-04-01,Onboarding,Closed,1.0
+1414,449,2023-03-22,Feature request,Closed,3.0
+1415,154,2023-04-30,Feature request,Closed,5.0
+1416,172,2023-06-01,Onboarding,Pending,3.0
+1417,111,2023-03-26,Feature request,Closed,5.0
+1418,90,2023-01-01,Billing,Pending,5.0
+1419,239,2023-05-13,Feature request,Closed,1.0
+1420,174,2023-01-31,Onboarding,Closed,1.0
+1421,411,2023-04-17,Onboarding,Closed,4.0
+1422,427,2023-03-06,Billing,Closed,1.0
+1423,406,2023-01-24,Bug,Closed,2.0
+1424,71,2023-06-23,Feature request,Closed,3.0
+1425,474,2023-01-07,Onboarding,Closed,4.0
+1426,241,2023-05-09,Bug,Pending,3.0
+1427,361,2023-01-09,Feature request,Closed,4.0
+1428,136,2023-01-08,Onboarding,Pending,3.0
+1429,396,2023-01-01,Feature request,Pending,4.0
+1430,346,2023-01-16,Billing,Closed,4.0
+1431,386,2023-01-17,Bug,Closed,4.0
+1432,327,2023-01-28,Bug,Closed,3.0
+1433,130,2023-04-15,Bug,Closed ,3.0
+1434,405,2023-04-03,Feature request,Pending,2.0
+1435,118,2023-05-19,Onboarding,Closed,5.0
+1436,419,2023-01-08,Feature request,Closed,3.0
+1437,469,2023-01-10,Onboarding,Closed,5.0
+1438,391,2023-06-10,Billing,Closed,4.0
+1439,409,2023-03-20,Bug,Closed,5.0
+1440,462,2023-01-19,Feature request,Closed,3.0
+1441,401,2023-06-15,Feature request,Closed,3.0
+1443,17,2023-04-28,Billing,Open,4.0
+1444,215,2023-03-14,Billing,Closed,5.0
+1445,301,2023-04-19,Feature request,Closed,3.0
+1446,457,2023-02-08,Feature request,Closed,1.0
+1447,143,2023-04-25,Billing,Pending,3.0
+1448,292,2023-02-23,Onboarding,Closed,4.0
+1449,248,2023-05-24,Feature request,Open,1.0
+1450,315,2023-06-17,Feature request,Closed,4.0
+1451,69,2023-03-31,Bug,Closed,3.0
+1452,336,2023-06-15,Feature request,Closed,1.0
+1453,250,2023-03-18,Feature request,Pending,2.0
+1454,496,2023-04-07,Feature request,Closed,4.0
+1455,39,2023-06-07,Bug,Closed,1.0
+1456,161,2023-05-13,Feature request,Closed,3.0
+1457,258,2023-03-14,Feature request,Closed,4.0
+1458,242,2023-01-22,Bug,Closed,5.0
+1459,293,2023-03-06,Billing,Closed,5.0
+1460,37,2023-04-03,Feature request,Closed,3.0
+1461,329,2023-04-26,Bug,Closed,2.0
+1462,84,2023-06-05,Billing,Closed,3.0
+1463,273,2023-02-16,Feature request,Closed,1.0
+1464,208,2023-03-29,Feature request,Closed,2.0
+1465,26,2023-04-30,Onboarding,Closed,4.0
+1466,271,2023-03-21,Feature request,Closed,3.0
+1467,153,2023-04-28,Onboarding,Closed,4.0
+1468,109,2023-03-31,Billing,Closed,4.0
+1469,260,2023-06-08,Billing,Open,1.0
+1470,441,2023-05-26,Billing,Pending,4.0
+1471,481,2023-02-01,Onboarding,Pending,5.0
+1472,364,2023-05-20,Bug,Closed,5.0
+1473,385,2023-04-16,Feature request,Closed,4.0
+1474,266,2023-03-09,Onboarding,Closed,3.0
+1475,292,2023-06-01,Feature request,Closed,3.0
+1476,173,2023-06-13,Onboarding,Closed,4.0
+1477,260,2023-05-25,Feature request,Closed,4.0
+1478,351,2023-05-25,Onboarding,Pending,5.0
+1479,326,2023-02-24,Bug,Pending,2.0
+1480,47,2023-03-09,Feature request,Closed,4.0
+1481,409,2023-01-11,Onboarding,Pending,5.0
+1482,239,2023-04-13,Feature request,Pending,1.0
+1483,59,2023-06-06,Bug,Closed,3.0
+1485,81,2023-06-25,Bug,Pending,4.0
+1486,486,2023-04-24,Billing,Closed,4.0
+1487,462,2023-03-20,Feature request,Open,3.0
+1488,210,2023-03-08,Bug,Pending,1.0
+1489,371,2023-06-23,Billing,Pending,5.0
+1490,201,2023-01-06,Billing,Closed,2.0
+1491,104,2023-02-25,Billing,Closed,5.0
+1492,432,2023-01-04,Bug,Closed,3.0
+1493,481,2023-01-10,Feature request,Closed,4.0
+1494,484,2023-02-18,Billing,Closed,3.0
+1495,83,2023-04-01,Feature request,Closed,4.0
+1496,209,2023-03-20,Billing,Closed,1.0
+1498,50,2023-02-23,Bug,Closed,4.0
+1499,489,2023-04-14,Bug,Open,4.0
+1500,173,2023-03-02,Onboarding,Closed,4.0
